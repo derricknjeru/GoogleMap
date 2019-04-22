@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_text">Test button</string>
+    <string name="no_geocoder_available">Address not found</string>
+    <string name="service_not_available">Service not found</string>
+    <string name="invalid_lat_long_used">Invalid location</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_found">Address found</string>
+    <string name="no_location_data_provided">No location provided</string>
+    <string name="default_destination">Njuguna\'s+Nairobi+Kenya</string>
+</resources>
